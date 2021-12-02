@@ -47,4 +47,9 @@ admin.site.register(Post)
  git config --global user.email you@example.com
 
  git status
- git add
+ git add.
+ git commit -m "My Django Girls app, first commit"
+
+ Relier nos deux dépôts
+ git remote add origin https://github.com/rivlal/mon-nouveau-blog.git
+ git push -u origin master
