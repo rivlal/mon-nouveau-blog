@@ -57,10 +57,24 @@ admin.site.register(Post)
 Utilisation d'un jeton sur la ligne de commande
  git clone https://github.com/rivlal/repo.git
 Username: rivlal
-Password: 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(Personal access tokens)
+Password=Personal access tokens : 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
 
 lalriv.pythonanywhere.com (6nicolas#1)
 My API token
 e4bd26cf78250ade604fa849def90f5fd1bcdc72
 pip3 install --user pythonanywhere
 pa_autoconfigure_django.py --python=3 https://github.com/rivlal/mon-nouveau-blog.git
+cd lalriv.pythonanywhere.com
+
+METTRE SUR LE WEB : 
+GIT 
+git status
+git add .
+git status
+git commit -m "Modification des templates to afficher les posts contenus dans la base de données."
+git push
+PYTHONANYWRE
+cd lalriv.pythonanywhere.com
+git pull
+web -> git reload -> lalriv.pythonanywhere.com
+
