@@ -52,7 +52,7 @@ admin.site.register(Post)
 
  Relier nos deux dépôts
  git remote add origin https://github.com/rivlal/mon-nouveau-blog.git
- 
+
 
 Utilisation d'un jeton sur la ligne de commande
  git clone https://github.com/rivlal/repo.git
@@ -66,8 +66,8 @@ pip3 install --user pythonanywhere
 pa_autoconfigure_django.py --python=3 https://github.com/rivlal/mon-nouveau-blog.git
 cd lalriv.pythonanywhere.com
 
-METTRE SUR LE WEB : 
-GIT 
+METTRE SUR LE WEB :
+GIT
 git status
 git add .
 git status
@@ -77,4 +77,3 @@ PYTHONANYWRE
 cd lalriv.pythonanywhere.com
 git pull
 web -> git reload -> lalriv.pythonanywhere.com
-
