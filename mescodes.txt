@@ -57,7 +57,8 @@ admin.site.register(Post)
 Utilisation d'un jeton sur la ligne de commande
  git clone https://github.com/rivlal/repo.git
 Username: rivlal
-Password=Personal access tokens :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
+Password=Personal access tokens :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
+
 
 lalriv.pythonanywhere.com (6nicolas#1)
 My API token
@@ -77,3 +78,4 @@ PYTHONANYWRE
 cd lalriv.pythonanywhere.com
 git pull
 web -> git reload -> lalriv.pythonanywhere.com
+workon lalriv.pythonanywhere.com
