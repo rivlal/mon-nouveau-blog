@@ -52,12 +52,14 @@ admin.site.register(Post)
 
  Relier nos deux dépôts
  git remote add origin https://github.com/rivlal/mon-nouveau-blog.git
+git remote add origin https://github.com/rivlal/Etude-Git-et-Github.git
+git push --set-upstream origin master
 
 
 Utilisation d'un jeton sur la ligne de commande
  git clone https://github.com/rivlal/repo.git
 Username: rivlal
-Password=Personal access tokens :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
+Password=Personal access tokens :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
 
 
 lalriv.pythonanywhere.com (6nicolas#1)

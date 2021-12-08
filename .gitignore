@@ -7,8 +7,7 @@ __pycache__
 .env
 myvenv/
 venv/
-
-# Base de donnée
+1961 Base de donnée
 db.sqlite3
 
 # Dossier "static" à la racine du projet
